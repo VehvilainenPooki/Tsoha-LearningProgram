@@ -1,1 +1,1 @@
-# TiKaSo_Opetussovellus
+# TiKaSo_LearningProgram
