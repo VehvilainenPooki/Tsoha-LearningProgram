@@ -1,4 +1,4 @@
-# TiKaSo_LearningProgram
+# Tsoha_LearningProgram
 This is an University of Helsinki Tsoha course project
 
 With this program you can host webcourses with textmaterials and automatic assignment checking. Every user is a teacher or a student.
